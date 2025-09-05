@@ -1,122 +1,78 @@
 [
-    {
-        "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
-    },
-    {
-        "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
-    },
-    {
-        "name": "NodeJS",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
-    },
-    {
-        "name": "Redux",
-        "icon": "https://img.icons8.com/color/48/000000/redux.png"
-    },
-    {
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
-    },
-    {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
-    },
-    {
-        "name": "MaterialUI",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
-    },
-    {
-        "name": "ChakraUI",
-        "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
-    },
-    {
-        "name": "TailwindCSS",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
-    },
-    {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    },
-    {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
-    },
-    {
-        "name": "HTML5",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
-    },
-    {
-        "name": "CSS3",
-        "icon": "https://img.icons8.com/color/48/000000/css3.png"
-    },
-    {
-        "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
-    },
-    {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
-    },
-    {
-        "name": "Kotlin",
-        "icon": "https://img.icons8.com/color/48/000000/kotlin.png"
-    },
-    {
-        "name": "PHP",
-        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
-    },
-    {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
-    },
-    {
-        "name": "C++",
-        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
-    },
-    {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
-    },
+    
     {
         "name": "MySQL",
         "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
     },
+
     {
-        "name": "PostgreSQL",
-        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+
+    {
+        "name": "Power BI",
+        "icon": "https://img.icons8.com/color/48/000000/power-bi-2021.png"
+    },
+    {
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/color/48/000000/tableau-software.png"
     },
     {
         "name": "AWS",
         "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
     },
     {
-        "name": "Heroku",
-        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
+        "name": "Microsoft Excel",
+        "icon": "https://img.icons8.com/color/48/000000/ms-excel.png"
+    },
+
+    {
+        "name": "Microsoft Word",
+        "icon": "https://img.icons8.com/color/48/000000/ms-word.png"
     },
     {
-        "name": "Netlify",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+        "name": "Microsoft PowerPoint",
+        "icon": "https://img.icons8.com/color/48/000000/ms-powerpoint.png"
     },
     {
-        "name": "DigitalOcean",
-        "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
+        "name": "Microsoft SharePoint",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft-sharepoint-2019.png"
     },
     {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+        "name": "Microsoft Azure",
+        "icon": "https://img.icons8.com/color/48/000000/azure-1.png"
     },
     {
-        "name": "Git VCS",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
+        "name": "Azure Active Directory",
+        "icon": "https://img.icons8.com/color/48/000000/azure-active-directory.png"
+    },
+    {
+        "name": "Azure Synapse Analytics",
+        "icon": "https://img.icons8.com/color/48/000000/database.png"
+    },
+    {
+        "name": "Azure Data Lake",
+        "icon": "https://img.icons8.com/color/48/000000/cloud.png"
+    },
+    {
+        "name": "Azure Data Factory",
+        "icon": "https://img.icons8.com/color/48/000000/workflow.png"
+    },
+    {
+        "name": "Visual Studio",
+        "icon": "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"
+    },
+    {
+        "name": "Snowflake",
+        "icon": "https://img.icons8.com/color/48/000000/snowflake.png"
     },
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+        "name": "Microsoft outlook",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png"
     }    
 ]
